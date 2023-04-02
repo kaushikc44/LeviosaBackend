@@ -1,0 +1,16 @@
+{
+  "functions": [
+    {
+      "source": ".",
+      "codebase": "default",
+      "host":"0.0.0.0",
+      "port":"5022",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ]
+    }
+  ]
+}
